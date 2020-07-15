@@ -66,7 +66,7 @@
     "stroke" : "#3d6fdd",
     "color" : "#3d6fdd",
     "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/kubernetes/ns-256.png",
-    "border" : "dashed"
+    "border" : "Dashed"
   }, {
     "tag" : "Kubernetes - cm",
     "stroke" : "#3d6fdd",
